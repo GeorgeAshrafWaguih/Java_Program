@@ -9,6 +9,6 @@ Java code covering the following:
         c- Nested If (LoanQualifier)
         d- If Else If (TestResults)
         e- Switch (GradesMessage)
-        f- Relational and Logical operators
+        f- Relational and Logical operators (LogicalOperatorLoanQualifier)
     
     
