@@ -6,7 +6,7 @@ Java code covering the following:
         a- If (SalaryCalculator)
         b- If Else (QuotaCalculator)
         c- Nested If (LoanQualifier)
-        d- If Else If 
+        d- If Else If (TestResults)
         e- Switch 
         f- Relational and Logical operators
     
