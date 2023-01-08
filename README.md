@@ -11,4 +11,6 @@ Java code covering the following:
         e- Switch (GradesMessage)
         f- Relational and Logical operators (LogicalOperatorLoanQualifier)
     
-    
+    3- Repition structure:
+        a- While loop (GrossPayInputValidation)
+        b-  
