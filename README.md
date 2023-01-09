@@ -14,3 +14,4 @@ Java code covering the following:
     3- Repition structure:
         a- While loop (GrossPayInputValidation)
         b- Do While Loop (AddNumbers) 
+        c- For loop (Cashier & LetterSearch)
