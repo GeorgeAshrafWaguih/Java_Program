@@ -20,3 +20,6 @@
     4- Methods:
         a- Methods (Greetings)
         b- Variable scoop (InstantCreditCheck)
+    
+    5- Objects:
+        a- Classes & objects (Rectangle)
