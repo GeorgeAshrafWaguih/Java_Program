@@ -17,4 +17,6 @@
         c- For loop (Cashier & LetterSearch)
         d- Nested Loop (AverageTestScores)
         
-    4- Methods (Greetings)
+    4- Methods:
+        a- Methods (Greetings)
+        b- Variable scoop (InstantCreditCheck)
