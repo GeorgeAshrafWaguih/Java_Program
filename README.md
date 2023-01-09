@@ -15,3 +15,4 @@ Java code covering the following:
         a- While loop (GrossPayInputValidation)
         b- Do While Loop (AddNumbers) 
         c- For loop (Cashier & LetterSearch)
+        d= Nested Loop (AverageTestScores)
