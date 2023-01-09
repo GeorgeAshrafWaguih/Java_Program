@@ -1,5 +1,5 @@
-# Java_Program
-Java code covering the following: 
+# Java Program
+##### Java code covering the following:
 
     1- Java fundamentals (GrossPayCalculator)
     
@@ -15,4 +15,6 @@ Java code covering the following:
         a- While loop (GrossPayInputValidation)
         b- Do While Loop (AddNumbers) 
         c- For loop (Cashier & LetterSearch)
-        d= Nested Loop (AverageTestScores)
+        d- Nested Loop (AverageTestScores)
+        
+    4- Methods (Greetings)
