@@ -28,5 +28,5 @@
         d- Overloading Methods within a Class (Month, MonthConverter)
     
     6- Arrays:
-        a- arrays (LotteryTicket)
-        b- 
+        a- Arrays (LotteryTicket)
+        b- Searching Arrays (LotteryTicket)
