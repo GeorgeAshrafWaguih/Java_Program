@@ -26,3 +26,7 @@
         b- Instantiating objects (HomeAreaCalculator)
         c- Objects as Method Parameters and Return Types (HomeAreaCalculatorRedo)
         d- Overloading Methods within a Class (Month, MonthConverter)
+    
+    6- Arrays:
+        a- arrays (LotteryTicket)
+        b- 
