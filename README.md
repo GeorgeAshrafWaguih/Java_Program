@@ -23,3 +23,4 @@
     
     5- Objects:
         a- Classes & objects (Rectangle)
+        b- Instantiating objects (HomeAreaCalculator)
