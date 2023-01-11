@@ -30,3 +30,4 @@
     6- Arrays:
         a- Arrays (LotteryTicket)
         b- Searching Arrays (LotteryTicket)
+        c- Tricks for Arrays (Grades)
