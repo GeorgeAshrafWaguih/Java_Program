@@ -31,3 +31,6 @@
         a- Arrays (LotteryTicket)
         b- Searching Arrays (LotteryTicket)
         c- Tricks for Arrays (Grades)
+        
+    7- Strings: (TextProcessor)
+        
