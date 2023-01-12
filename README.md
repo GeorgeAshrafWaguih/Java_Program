@@ -33,4 +33,7 @@
         c- Tricks for Arrays (Grades)
         
     7- Strings: (TextProcessor)
+    
+    8_ Inheritance:
+        a- Inheritance (Person, Employee, InheritanceTester)
         
