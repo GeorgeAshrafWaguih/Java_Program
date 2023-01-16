@@ -41,3 +41,5 @@
         d- Multiple Inheritance (Person , Woman, Mother)
     
     9- Polymorphism (Animal, Dog, Cat, Zoo)
+    
+    10- Abstraction (Shape, Rectangle, ShapeTester)
