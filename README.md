@@ -34,8 +34,8 @@
         
     7- Strings: (TextProcessor)
     
-    8_ Inheritance: (Person, Employee, InheritanceTester)
-        a- Inheritance 
-        b- Constructors in inheritance
-        c- 
+    8_ Inheritance: (InheritanceTester)
+        a- Inheritance (Person, Employee) 
+        b- Constructors in inheritance (Person, Employee)
+        c- Overriding and Overloading Methods (Rectangle, Square)
         
