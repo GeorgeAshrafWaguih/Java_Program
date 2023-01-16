@@ -43,3 +43,5 @@
     9- Polymorphism (Animal, Dog, Cat, Zoo)
     
     10- Abstraction (Shape, Rectangle, ShapeTester)
+    
+    11- Interfaces (Product, Book, Customer)
