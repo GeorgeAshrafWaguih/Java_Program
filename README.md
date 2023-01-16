@@ -34,6 +34,8 @@
         
     7- Strings: (TextProcessor)
     
-    8_ Inheritance:
-        a- Inheritance (Person, Employee, InheritanceTester)
+    8_ Inheritance: (Person, Employee, InheritanceTester)
+        a- Inheritance 
+        b- Constructors in inheritance
+        c- 
         

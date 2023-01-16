@@ -2,6 +2,11 @@ package inheritance;
 
 public class Employee extends Person {
 
+    public Employee(){
+        super("George");
+        System.out.println("This is the Employee constructor");
+    }
+
     private String employeeId;
     private String title;
 

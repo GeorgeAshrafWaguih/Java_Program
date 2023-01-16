@@ -6,6 +6,9 @@ public class Person {
     private int age;
     private String gender;
 
+    public Person(String text){
+        System.out.println("Name is set");
+    }
     public String getName() {
         return name;
     }
