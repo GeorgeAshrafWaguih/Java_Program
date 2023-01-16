@@ -11,5 +11,10 @@ public class InheritanceTester {
 
         Square square = new Square();
         square.print("square");
+
+        Mother mom = new Mother();
+        mom.setName("Glen");
+
+        System.out.println(mom.getName()+ " is a "+ mom.getGender());
     }
 }

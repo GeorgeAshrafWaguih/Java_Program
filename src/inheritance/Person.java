@@ -6,6 +6,9 @@ public class Person {
     private int age;
     private String gender;
 
+    public Person(){
+        System.out.println("This is the Person constructor");
+    }
     public Person(String text){
         System.out.println("Name is set");
     }
